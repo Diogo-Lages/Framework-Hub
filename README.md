@@ -1,7 +1,7 @@
-# Menu Framework
+# Framework Hub
 
 ## Description
-Menu Framework is a centralized dashboard offering access to various frameworks, including OSINT, Bug Bounty, Blue Team, and additional tools.
+Framework Hub is a centralized dashboard offering access to various frameworks, including OSINT, Bug Bounty, Blue Team, and additional tools.
 
 ---
 
