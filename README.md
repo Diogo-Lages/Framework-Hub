@@ -10,8 +10,6 @@ Framework Hub is a centralized dashboard offering access to various frameworks, 
 - **Bug Bounty Framework**: Interactive tree-view of security tools for bug hunters.
 - **Google Dork Tool**: Advanced search query builder for targeted information gathering.
 - **Blue Team Framework**: Collection of defensive security tools and resources.
-- **Cyberpunk UI**: Matrix-inspired interface with animated elements.
-- **Responsive Design**: Works on both desktop and mobile devices.
 
 ---
 
