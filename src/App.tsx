@@ -33,6 +33,7 @@ const frameworks = [
     title: 'Blue Team Framework',
     description: 'Defense tools and resources',
     url: '/blueteam',
+    externalUrl: 'https://diogo-lages.github.io/Blueteam-Framework/',
     icon: <Shield className="w-8 h-8 text-primary" />
   }
 ];
