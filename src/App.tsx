@@ -11,6 +11,7 @@ const frameworks = [
     title: 'OSINT Framework',
     description: 'Terminal-based OSINT tool navigation',
     url: '/osint',
+    externalUrl: 'https://diogo-lages.github.io/OSINT-Framework/',
     icon: <Terminal className="w-8 h-8 text-primary" />
   },
   {
@@ -18,6 +19,7 @@ const frameworks = [
     title: 'Bug Bounty Framework',
     description: 'Interactive tree-view of security tools',
     url: '/bugbounty',
+    externalUrl: 'https://diogo-lages.github.io/BugBounty-Framework/',
     icon: <Bug className="w-8 h-8 text-primary" />
   },
   {
